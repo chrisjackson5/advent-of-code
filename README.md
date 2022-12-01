@@ -15,4 +15,4 @@ below.
 
 |                 Year                  | Language | Stars | Docs  |
 | :-----------------------------------: | :------: | :---: | :---: |
-
+| [2021](https://adventofcode.com/2021) | Python   | 50/50 | [README](2021/README.md) |
